@@ -28,7 +28,8 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 
 ## YouTube
 * [Office Space - Motivaction Problems (1999)](https://www.youtube.com/watch?v=cgg9byUy-V4) - Scene that helps highlight several of the techniques I am teaching. 
-* [BSidesIndy 2018 06 Social Engineering for the Blue Team](https://www.youtube.com/watch?v=R48xhDeNruc&index=8&list=PL5KEeu8DI8tjaIThxTtUzGdJ42ljlvWEO) - My first talk on this topic at BSides Indy 2018.
+* [BSidesIndy 2018 Social Engineering for the Blue Team](https://www.youtube.com/watch?v=R48xhDeNruc&index=8&list=PL5KEeu8DI8tjaIThxTtUzGdJ42ljlvWEO) - My first talk on this topic at BSides Indy 2018.
+* [That's NOT my RJ45 Jack IRL Networking for Humans Pt 1 Johnny Xmas](https://www.youtube.com/watch?v=KZzY2RMoE_Q) - A networking talk that applies a lot of the same concepts.
 
 ## Articles and other links
 * [Why Chick-fil-A's restaurants sell 4 times as much as KFC's](http://www.businessinsider.com/why-chick-fil-a-is-so-successful-2017-8) by Hayley Peterson of Business Insider - Article on what makes Chick-fil-A successful. Not surprising it focuses on building good relationships with employees.
