@@ -28,6 +28,7 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 
 ## Podcast shows
 * [Manager Tools - The Three Types of Power (And One To Rule Them](https://www.manager-tools.com/2018/03/three-types-power-and-one-rule-them-part-1) - This four part series talks about the three different types of power in an organization. Expertise, role, and relationship power. Relationship power is by far the most important type of power for a person in an organization.
+* [Why social skills are important] Part 1(http://www.timothydeblock.com/eis/88), part 2(http://www.timothydeblock.com/eis/89), and part 3(http://www.timothydeblock.com/eis/90) - This is a series I did with Johnny Xmas where we covered social skills in information security and why they're important.
 
 ## YouTube
 * [Office Space - Motivaction Problems (1999)](https://www.youtube.com/watch?v=cgg9byUy-V4) - Scene that helps highlight several of the techniques I am teaching. 
