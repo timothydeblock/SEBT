@@ -26,6 +26,9 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 * [Social Engineering for the Blue Team](https://www.timothydeblock.com/blog/2018/2/4/social-engineering-for-the-blue-team) by Timothy De Block - My opening thoughts on the topic.
 * [Sarcasm, or How I Stopped Worrying And Learned To Love Genuine Communication](http://annebean.com/sarcasm/) by Anne Bean - Interesting article on sarcasm and having to avoid it for a job.  
 
+## Podcast shows
+* [Manager Tools - The Three Types of Power (And One To Rule Them](https://www.manager-tools.com/2018/03/three-types-power-and-one-rule-them-part-1) - This four part series talks about the three different types of power in an organization. Expertise, role, and relationship power. Relationship power is by far the most important type of power for a person in an organization.
+
 ## YouTube
 * [Office Space - Motivaction Problems (1999)](https://www.youtube.com/watch?v=cgg9byUy-V4) - Scene that helps highlight several of the techniques I am teaching. 
 * [BSidesIndy 2018 Social Engineering for the Blue Team](https://www.youtube.com/watch?v=R48xhDeNruc&index=8&list=PL5KEeu8DI8tjaIThxTtUzGdJ42ljlvWEO) - My first talk on this topic at BSides Indy 2018.
