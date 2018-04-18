@@ -3,8 +3,6 @@
 This is a repository for my Social Engineering for Blue Team presentation and workshop. The links on this page include books, blogs, podcasts, talks, and other resources.
 
 ## My security conference speaking and workshop schedule:
-* [BSides Indy](http://bsidesindy.org/) - March 10, 2018
-* [BSides Nashville](https://bsidesnash.org/) - April 14, 2018 (alternate speaker)
 * [Converge and BSides Detroit](https://www.convergeconference.org/) - May 10 - 12, 2018 - Workshop
 * [ShowMeCon](https://showmecon.com/) - June 7 - 8, 2018
 
@@ -34,6 +32,7 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 * [Office Space - Motivaction Problems (1999)](https://www.youtube.com/watch?v=cgg9byUy-V4) - Scene that helps highlight several of the techniques I am teaching. 
 * [BSidesIndy 2018 Social Engineering for the Blue Team](https://www.youtube.com/watch?v=R48xhDeNruc&index=8&list=PL5KEeu8DI8tjaIThxTtUzGdJ42ljlvWEO) - My first talk on this topic at BSides Indy 2018.
 * [That's NOT my RJ45 Jack IRL Networking for Humans Pt 1 Johnny Xmas](https://www.youtube.com/watch?v=KZzY2RMoE_Q) - A networking talk that applies a lot of the same concepts.
+* [That's NOT my RJ45 Jack IRL Networking for Humans Pt2 Johnny Xmas](https://youtu.be/e_ivHDkSF2A) - Part two of an amazing networking and social skills talk.
 
 ## Articles and other links
 * [Why Chick-fil-A's restaurants sell 4 times as much as KFC's](http://www.businessinsider.com/why-chick-fil-a-is-so-successful-2017-8) by Hayley Peterson of Business Insider - Article on what makes Chick-fil-A successful. Not surprising it focuses on building good relationships with employees.
