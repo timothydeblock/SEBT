@@ -30,9 +30,11 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 * [Social Engineering podcast - Having the courage to create a tribe with Dov Baron](https://www.social-engineer.org/podcast/ep-104-having-the-courage-to-create-a-tribe-with-dov-baron/) - Good episode that focuses on vulnerability. 
 * [Ted Radio Hour: Comfort Zone](https://www.npr.org/programs/ted-radio-hour/606073044/comfort-zone) - This podcast covers getting out of our comfort zone, which is very important for applying a lot of the techniques discussed on this page. 
 
-## YouTube
+## Videos
 * [Office Space - Motivaction Problems (1999)](https://www.youtube.com/watch?v=cgg9byUy-V4) - Scene that helps highlight several of the techniques I am teaching. 
+* [North Korean film exposes Western Proaganda](https://www.youtube.com/watch?v=Irw7SRv-l44) - North Korean propoganda on the United States. This highlights perception awareness around perception.
 * [BSidesIndy 2018 Social Engineering for the Blue Team](https://www.youtube.com/watch?v=R48xhDeNruc&index=8&list=PL5KEeu8DI8tjaIThxTtUzGdJ42ljlvWEO) - My first talk on this topic at BSides Indy 2018.
+* [BSidesNash 2018 Social Engineering for the Blue Team (Green edition)](https://www.youtube.com/watch?v=ojnab8VspJg) - My talk for new people getting into the field. 
 * [That's NOT my RJ45 Jack IRL Networking for Humans Pt 1 Johnny Xmas](https://www.youtube.com/watch?v=KZzY2RMoE_Q) - A networking talk that applies a lot of the same concepts.
 * [That's NOT my RJ45 Jack IRL Networking for Humans Pt2 Johnny Xmas](https://youtu.be/e_ivHDkSF2A) - Part two of an amazing networking and social skills talk.
 
