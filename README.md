@@ -14,7 +14,7 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 * [The Jordan Harbinger Show](https://www.jordanharbinger.com/) - This is the new landing spot for the former-main host of the Art of Charm. 
 
 ## Books
-* [Feel The Fear And Do It Anyway](https://www.amazon.com/Feel-Fear-Anyway-Indecision-Confidence/dp/B00OVMK152/ref=sr_1_4?s=books&ie=UTF8&qid=1518333130&sr=1-4&keywords=Feel+the+fear+and+do+it+anyway) by Susan Jeffers - The book that started it all
+* [Feel The Fear And Do It Anyway](https://www.amazon.com/Feel-Fear-Anyway-Indecision-Confidence/dp/B00OVMK152/ref=sr_1_4?s=books&ie=UTF8&qid=1518333130&sr=1-4&keywords=Feel+the+fear+and+do+it+anyway) by Dr. Susan Jeffers - The book that started it all
 * [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539/ref=sr_1_1?ie=UTF8&qid=1518332959&sr=8-1&keywords=Social+Engineering) by Chris Hadnagy - The book that opened my eyes to social engineering as a tool
 * [Unmasking the Social Engineer: The Human Element of Security](https://www.amazon.com/Unmasking-Social-Engineer-Element-Security/dp/1118608577/ref=sr_1_3?ie=UTF8&qid=1518332986&sr=8-3&keywords=chris+hadnagy) by Chris Hadnagy - Taught me a lot of techniques on body language and micro expressions
 * [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_3?ie=UTF8&qid=1518932539&sr=8-3&keywords=how+to+win+friends+and+influence+people) by Dale Carnegie - Staple social engineering book that isn't infosec related.
