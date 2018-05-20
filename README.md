@@ -29,6 +29,7 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 * **Why social skills are important** [Part 1](http://www.timothydeblock.com/eis/88), [part 2](http://www.timothydeblock.com/eis/89), and [part 3](http://www.timothydeblock.com/eis/90) - This is a series I did with Johnny Xmas where we covered social skills in information security and why they're important.
 * [Social Engineering podcast - Having the courage to create a tribe with Dov Baron](https://www.social-engineer.org/podcast/ep-104-having-the-courage-to-create-a-tribe-with-dov-baron/) - Good episode that focuses on vulnerability. 
 * [Ted Radio Hour: Comfort Zone](https://www.npr.org/programs/ted-radio-hour/606073044/comfort-zone) - This podcast covers getting out of our comfort zone, which is very important for applying a lot of the techniques discussed on this page. 
+* [Jordan Harbinger Show - How to captivate with social cues] - This is a great episode with Vanessa Van Edwards. Lot of great advice on using social cues to your advantage.
 
 ## Videos
 * [Office Space - Motivaction Problems (1999)](https://www.youtube.com/watch?v=cgg9byUy-V4) - Scene that helps highlight several of the techniques I am teaching. 
