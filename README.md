@@ -3,7 +3,6 @@
 This is a repository for my Social Engineering for Blue Team presentation and workshop. The links on this page include books, blogs, podcasts, talks, and other resources.
 
 ## My security conference speaking and workshop schedule:
-* [Converge and BSides Detroit](https://www.convergeconference.org/) - May 10 - 12, 2018 - Workshop
 * [ShowMeCon](https://showmecon.com/) - June 7 - 8, 2018
 
 ## Podcasts
