@@ -23,6 +23,7 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 * [Social Engineering for the Blue Team](https://www.timothydeblock.com/blog/2018/2/4/social-engineering-for-the-blue-team) by Timothy De Block - My opening thoughts on the topic.
 * [Sarcasm, or How I Stopped Worrying And Learned To Love Genuine Communication](http://annebean.com/sarcasm/) by Anne Bean - Interesting article on sarcasm and having to avoid it for a job. 
 * [Seven reasons not to compliment someone on weight loss - and what to say instead](https://www.washingtonpost.com/lifestyle/wellness/seven-reasons-not-to-compliment-someone-on-weight-loss--and-what-to-say-instead/2018/05/17/0acd2d16-549c-11e8-a551-5b648abe29ef_story.html?utm_term=.56600bec2356) by Carrie Dennett - Not sure if I totally by into this. Valid points are made and something to keep in mind when talking about someone's weight. 
+* [Jordan Harbinger Show - How to make people remember you](https://www.jordanharbinger.com/how-to-make-people-remember-you/) - Great article that talks about making a great impression with someone.
 
 ## Podcast episodes
 * [Manager Tools - The Three Types of Power (And One To Rule Them](https://www.manager-tools.com/2018/03/three-types-power-and-one-rule-them-part-1) - This four part series talks about the three different types of power in an organization. Expertise, role, and relationship power. Relationship power is by far the most important type of power for a person in an organization.
@@ -31,6 +32,7 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 * [Ted Radio Hour: Comfort Zone](https://www.npr.org/programs/ted-radio-hour/606073044/comfort-zone) - This podcast covers getting out of our comfort zone, which is very important for applying a lot of the techniques discussed on this page. 
 * [Jordan Harbinger Show - How to captivate with social cues](https://www.jordanharbinger.com/vanessa-van-edwards-how-to-captivate-with-social-cues/) - This is a great episode with Vanessa Van Edwards. Lot of great advice on using social cues to your advantage.
 * [Jordan Harbinger Show - How to Become a Networking Superconnector](https://www.jordanharbinger.com/david-burkus-how-to-become-a-networking-superconnector/) - David Burkus joins the show to discuss making connections with others. 
+
 
 ## Videos
 * [Office Space - Motivaction Problems (1999)](https://www.youtube.com/watch?v=cgg9byUy-V4) - Scene that helps highlight several of the techniques I am teaching. 
