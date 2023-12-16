@@ -2,9 +2,6 @@
 
 This is a repository for my Social Engineering for Blue Team presentation and workshop. The links on this page include books, blogs, podcasts, talks, and other resources.
 
-## My security conference speaking and workshop schedule:
-* [ShowMeCon](https://showmecon.com/) - June 7 - 8, 2018
-
 ## Podcasts
 * [Art of Charm](https://theartofcharm.com/) - Self-improvement podcasts with a lot of content on psychology and interacting with others
 * [Social Engineering Podcast](https://www.social-engineer.org/category/podcast/) - Chris Hadnagy and crew talk about social engineering with experts inside and outside of information security. 
