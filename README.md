@@ -23,7 +23,7 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 * [Jordan Harbinger Show - How to make people remember you](https://www.jordanharbinger.com/how-to-make-people-remember-you/) - Great article that talks about making a great impression with someone.
 
 ## Podcast episodes
-* [Manager Tools - The Three Types of Power (And One To Rule Them](https://www.manager-tools.com/2018/03/three-types-power-and-one-rule-them-part-1) - This four part series talks about the three different types of power in an organization. Expertise, role, and relationship power. Relationship power is by far the most important type of power for a person in an organization.
+* [Manager Tools - The Three Types of Power (And One To Rule Them)](https://www.manager-tools.com/2018/03/three-types-power-and-one-rule-them-part-1) - This four part series talks about the three different types of power in an organization. Expertise, role, and relationship power. Relationship power is by far the most important type of power for a person in an organization.
 * **Why social skills are important** [Part 1](http://www.timothydeblock.com/eis/88), [part 2](http://www.timothydeblock.com/eis/89), and [part 3](http://www.timothydeblock.com/eis/90) - This is a series I did with Johnny Xmas where we covered social skills in information security and why they're important.
 * [Social Engineering podcast - Having the courage to create a tribe with Dov Baron](https://www.social-engineer.org/podcast/ep-104-having-the-courage-to-create-a-tribe-with-dov-baron/) - Good episode that focuses on vulnerability. 
 * [Ted Radio Hour: Comfort Zone](https://www.npr.org/programs/ted-radio-hour/606073044/comfort-zone) - This podcast covers getting out of our comfort zone, which is very important for applying a lot of the techniques discussed on this page. 
@@ -32,7 +32,7 @@ This is a repository for my Social Engineering for Blue Team presentation and wo
 
 
 ## Videos
-* [Office Space - Motivaction Problems (1999)](https://www.youtube.com/watch?v=cgg9byUy-V4) - Scene that helps highlight several of the techniques I am teaching. 
+* [Office Space - Motivation Problems (1999)](https://www.youtube.com/watch?v=cgg9byUy-V4) - Scene that helps highlight several of the techniques I am teaching. 
 * [North Korean film exposes Western Proaganda](https://www.youtube.com/watch?v=Irw7SRv-l44) - North Korean propoganda on the United States. This highlights perception awareness around perception.
 * [BSidesIndy 2018 Social Engineering for the Blue Team](https://www.youtube.com/watch?v=R48xhDeNruc&index=8&list=PL5KEeu8DI8tjaIThxTtUzGdJ42ljlvWEO) - My first talk on this topic at BSides Indy 2018.
 * [BSidesNash 2018 Social Engineering for the Blue Team (Green edition)](https://www.youtube.com/watch?v=ojnab8VspJg) - My talk for new people getting into the field. 
